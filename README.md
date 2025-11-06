@@ -5,7 +5,7 @@ Graph coloring, an NP-complete problem, involves assigning colors to vertices of
 ## How to Run (Qiskit)
 1. Clone this repository onto Visual Studio Code
 2. Click on the folder titled "QiskitGrovers"
-3. Ensure you have the necessary dependencies downloaded (Python, numpy, qiskit, geopandas, matplotlib)
+3. Ensure you have the necessary dependencies downloaded (Python, NumPy, Qiskit, GeoPandas, Matplotlib)
 4. Run main.py
 5. Output contains the colored map, total time, circuit depth, and an image of the Grover's circuit
 
@@ -13,7 +13,7 @@ Graph coloring, an NP-complete problem, involves assigning colors to vertices of
 1. Clone this repository onto Visual Studio Code
 2. Click on the folder titled "QSharpGrovers"
 3. Download the extension "Microsoft Quantum Development Kit and Q# Extension Pack" on Visual Studio Code
-4. Ensure you have the necessary dependencies downloaded (Q#, geopandas, matplotlib)
+4. Ensure you have the necessary dependencies downloaded (Q#, GeoPandas, Matplotlib)
 5. Click into the folder src
 6. Run Main.qs and copy the output
 7. Paste the output into the string 'input' in output.py
